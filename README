@@ -1,3 +1,5 @@
+This code is developed by Anamarija Fofonjka at the lab of Michel Milinkovitch (LANE) https://www.lanevol.org/
+Corresponding author email : Michel.Milinkovitch@unige.ch
 
 Description:
 	RD-3D is a GPU-based finite-difference implementation used to simulate the reaction-diffusion process
